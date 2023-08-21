@@ -12,12 +12,10 @@ img_path: "/posts/20230819"
 Default AstroNvim example configuration
 
 - Install and initialize: **`lazyman -x AstroNvimStart`**
-- Configuration category: [Starter](https://github.com/doctorfree/nvim-lazyman#starter-configurations)
+- Configuration category: [Starter](https://lazyman.dev/configurations/#starter-configurations)
 - Base configuration:     [AstroNvim](https://astronvim.com)
 - Plugin manager:         [Lazy](https://github.com/folke/lazy.nvim)
 - Installation location:  **`~/.config/nvim-AstroNvimStart`**
-
-[Links to all Lazyman supported configuration documents](https://github.com/doctorfree/nvim-lazyman/wiki/infodocs)
 
 ### Git repository
 
