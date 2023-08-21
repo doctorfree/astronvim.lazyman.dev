@@ -6,17 +6,16 @@ toc: false
 post_style: page
 ---
 
-## Lazyman Supported Configurations
+## Lazyman Supported Configuration Categories
 
 After [installing and initializing Lazyman](https://lazyman.dev/install),
 additional Neovim configurations can be installed and initialized using
 the `lazyman` command.
 
 All of the supported Lazyman Neovim configurations can be managed using
-the `lazyman` command interactive menu interface. The `lazyman` menu is
-presented by invoking `lazyman` without arguments after the initial
-bootstrap process is complete. Lazyman Neovim configurations can
-also be managed with `lazyman` command line operations.
+the `lazyman` command interactive menu interface. After the initial
+bootstrap process is complete, the `lazyman` menu is presented by
+invoking `lazyman` without arguments.
 
 Currently over 100 popular Neovim configurations are supported in the
 following configuration categories:
