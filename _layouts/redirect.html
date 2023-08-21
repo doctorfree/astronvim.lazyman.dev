@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 <!doctype html>
 <html>
   <head>
@@ -7,8 +11,10 @@
   </head>
 
   <body>
-    <h1>Redirecting...</h1>
+    <h2>Redirecting...</h2>
+    <p>
     <a href="{{ page.redirect_to }}">Click here if you are not redirected.</a>
+    </p>
     <script>
       location = "{{ page.redirect_to }}";
     </script>
