@@ -1,6 +1,5 @@
 ---
-layout: redirect
-sitemap: false
+title: Lazyman
 redirect_to: https://lazyman.dev
 icon: fas fa-arrow-left
 order: 4
