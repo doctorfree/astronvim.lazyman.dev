@@ -76,7 +76,7 @@ theme_mode:
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/neovim-hicontrast.png"
+avatar: "/assets/astronvim.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -95,22 +95,7 @@ comments:
     repo: doctorfree/astronvim.lazyman.dev
     repo_id: R_kgDOKJA0QQ
     category: General
-    category_id:
-      DIC_kwDOKJA0Qc4CYt1B
-      # This is the hardest thing to find. Use the following script:
-      # gh api graphql -f query='
-      # {
-      #   repository(owner: "<gh-username>", name: "<repo-name>") {
-      #     id
-      #     name
-      #     discussionCategories(first: 10) {
-      #       nodes {
-      #         id
-      #         name
-      #       }
-      #     }
-      #   }
-      # }'
+    category_id: DIC_kwDOKJA0Qc4CYt1B
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
