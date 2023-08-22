@@ -17,7 +17,7 @@ The following are [Lazyman](https://lazyman.dev) supported
 
 Install all Lazyman supported AstroNvim configurations with the command `lazyman -i astronvim`.
 
-## What is AstroNvim
+## 📦 What is AstroNvim
 
 [AstroNvim](https://astronvim.com) is one of the most popular Neovim "distributions"
 along with [LazyVim](https://lazyvim.lazyman.dev),
@@ -41,16 +41,16 @@ Features that distinguish AstroNvim include:
 Read our overview and comparison of
 [Neovim configuration distributions](https://lazyman.dev/posts/Configuration-Distributions).
 
-## Overview
+## ⭐ Overview
 
 AstroNvim is an aesthetic and feature-rich neovim config that is extensible
 and easy to use with a great set of plugins
 
-## Preview
+## 🌟 Preview
 
 <kbd><img alt="Preview Image" src="https://astronvim.com/img/themes/overview.png"></kbd>
 
-## Features
+## ✨ Features
 
 - Common plugin specifications with [AstroCommunity](https://github.com/AstroNvim/astrocommunity)
 - File explorer with [Neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
@@ -64,7 +64,7 @@ and easy to use with a great set of plugins
 - Language Server Protocol with [Native LSP](https://github.com/neovim/nvim-lspconfig)
 - Debug Adapter Protocol with [nvim-dap](https://github.com/mfussenegger/nvim-dap)
 
-## Requirements
+## ⚡ Requirements
 
 - [Nerd Fonts](https://www.nerdfonts.com/font-downloads) (_Optional with manual intervention:_ See [Documentation on customizing icons](https://astronvim.com/Recipes/icons))
 - [Neovim 0.8+ (_Not_ including nightly)](https://github.com/neovim/neovim/releases/tag/stable)
@@ -79,7 +79,7 @@ and easy to use with a great set of plugins
   - [Python](https://www.python.org/) - python repl toggle terminal (`<leader>tp`)
   - [Node](https://nodejs.org/en/) - node repl toggle terminal (`<leader>tn`)
 
-## Community Plugin Configurations
+## 🛠️ Community Plugin Configurations
 
 One of the strongest features of AsroNvim is the community-provided setups from
 the [AstroCommunity repository](https://github.com/AstroNvim/astrocommunity).
@@ -100,6 +100,24 @@ return {
   { import = "astrocommunity.pack.python" },
 }
 ```
+
+## 🗒️ Links
+
+[AstroNvim Documentation](https://astronvim.com)
+[Core AstroNvim LUA API Documentation](https://api.astronvim.com)
+
+- [Basic Usage](https://astronvim.com/Basic%20Usage/walkthrough) is given for basic usage
+- [Default Mappings](https://astronvim.com/Basic%20Usage/mappings) more about the default key bindings
+- [Default Plugin Configuration](https://astronvim.com/configuration/plugin_defaults) more about the provided plugin defaults
+- [Advanced Configuration](https://astronvim.com/configuration/config_options) more about advanced configuration
+
+## 📹 Videos
+
+There have been some great review videos released by members of the community! Here are a few:
+
+- [Neovim With AstroNvim | Your New Advanced Development Editor](https://www.youtube.com/watch?v=GEHPiZ10gOk) (Version: 3, Content By: [@Cretezy](https://github.com/Cretezy))
+- [Why I'm quitting VIM by Carlos Mafla](https://www.youtube.com/watch?v=71GDopdc9rw) (Version: 2, Content By: [@gigo6000](https://github.com/gigo6000))
+- [Astro Vim - All in one Nvim config!! by John McBride](https://www.youtube.com/watch?v=JQLZ7NJRTEo) (Version: 1, Content By: [@jpmcb](https://github.com/jpmcb))
 
 <div align="center">
   <p align="center">
