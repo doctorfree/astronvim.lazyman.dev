@@ -15,7 +15,6 @@ The following are [Lazyman](https://lazyman.dev) supported
 | [Kabin](https://astronvim.lazyman.dev/posts/Kabin) | [Lamia](https://astronvim.lazyman.dev/posts/Lamia) | [Orhun](https://astronvim.lazyman.dev/posts/Orhun) | [Spider](https://astronvim.lazyman.dev/posts/Spider) |
 
 <div align="center">
-  <h2 id="connect">Connect</h2>
   <p align="center">
     <a href="https://ronrecord.com" target="_blank" rel="noopener">
       <img align="center"
