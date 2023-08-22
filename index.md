@@ -5,7 +5,7 @@ toc: true
 post_style: page
 ---
 
-## Lazyman Supported AstroNvim Neovim Configurations
+<h2>Lazyman Supported AstroNvim Neovim Configurations</h2>
 
 The following are [Lazyman](https://lazyman.dev) supported
 [AstroNvim](https://astronvim.com) based Neovim configurations:
