@@ -47,11 +47,11 @@ Read our overview and comparison of
 AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 </p>
 
-### 🌟 Preview
+### Preview
 
 ![Preview Image](https://astronvim.com/img/themes/overview.png)
 
-### ✨ Features
+### Features
 
 - Common plugin specifications with [AstroCommunity](https://github.com/AstroNvim/astrocommunity)
 - File explorer with [Neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
@@ -65,7 +65,7 @@ AstroNvim is an aesthetic and feature-rich neovim config that is extensible and 
 - Language Server Protocol with [Native LSP](https://github.com/neovim/nvim-lspconfig)
 - Debug Adapter Protocol with [nvim-dap](https://github.com/mfussenegger/nvim-dap)
 
-### ⚡ Requirements
+### Requirements
 
 - [Nerd Fonts](https://www.nerdfonts.com/font-downloads) (_Optional with manual intervention:_ See [Documentation on customizing icons](https://astronvim.com/Recipes/icons)) <sup>[[1]](#1)</sup>
 - [Neovim 0.8+ (_Not_ including nightly)](https://github.com/neovim/neovim/releases/tag/stable)
@@ -106,8 +106,8 @@ return {
 }
 ```
 
-<div>
-  <p>
+<div align="center">
+  <p align="center">
     <a href="https://ronrecord.com" target="_blank" rel="noopener">
       <img align="center"
       style="width:40px;height:40px"
