@@ -14,8 +14,8 @@ The following are [Lazyman](https://lazyman.dev) supported
 | [AstroNvimPlus](https://astronvim.lazyman.dev/posts/AstroNvimPlus) | [AstroNvimStart](https://astronvim.lazyman.dev/posts/AstroNvimStart) | [Normal](https://astronvim.lazyman.dev/posts/Normal) | [Micah](https://astronvim.lazyman.dev/posts/Micah) |
 | [Kabin](https://astronvim.lazyman.dev/posts/Kabin) | [Lamia](https://astronvim.lazyman.dev/posts/Lamia) | [Orhun](https://astronvim.lazyman.dev/posts/Orhun) | [Spider](https://astronvim.lazyman.dev/posts/Spider) |
 
-<div align="center">
-  <p align="center">
+<div>
+  <p>
     <a href="https://ronrecord.com" target="_blank" rel="noopener">
       <img align="center"
       style="width:40px;height:40px"
