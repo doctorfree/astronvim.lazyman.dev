@@ -103,21 +103,20 @@ return {
 
 ## 🗒️ Links
 
-[AstroNvim Documentation](https://astronvim.com)
-[Core AstroNvim LUA API Documentation](https://api.astronvim.com)
-
-- [Basic Usage](https://astronvim.com/Basic%20Usage/walkthrough) is given for basic usage
-- [Default Mappings](https://astronvim.com/Basic%20Usage/mappings) more about the default key bindings
-- [Default Plugin Configuration](https://astronvim.com/configuration/plugin_defaults) more about the provided plugin defaults
-- [Advanced Configuration](https://astronvim.com/configuration/config_options) more about advanced configuration
+- [AstroNvim Documentation](https://astronvim.com)
+- [Core AstroNvim LUA API Documentation](https://api.astronvim.com)
+- [Basic Usage](https://astronvim.com/Basic%20Usage/walkthrough)
+- [Default Mappings](https://astronvim.com/Basic%20Usage/mappings)
+- [Default Plugin Configuration](https://astronvim.com/configuration/plugin_defaults)
+- [Advanced Configuration](https://astronvim.com/configuration/config_options)
 
 ## 📹 Videos
 
-There have been some great review videos released by members of the community! Here are a few:
+There have been some great review videos released by members of the community. Here are a few:
 
 - [Neovim With AstroNvim: Your New Advanced Development Editor](https://www.youtube.com/watch?v=GEHPiZ10gOk) (Version: 3, Content By: [@Cretezy](https://github.com/Cretezy))
 - [Why I'm quitting VIM by Carlos Mafla](https://www.youtube.com/watch?v=71GDopdc9rw) (Version: 2, Content By: [@gigo6000](https://github.com/gigo6000))
-- [Astro Vim - All in one Nvim config!! by John McBride](https://www.youtube.com/watch?v=JQLZ7NJRTEo) (Version: 1, Content By: [@jpmcb](https://github.com/jpmcb))
+- [Astro Vim - All in one Nvim config by John McBride](https://www.youtube.com/watch?v=JQLZ7NJRTEo) (Version: 1, Content By: [@jpmcb](https://github.com/jpmcb))
 
 <div align="center">
   <p align="center">
