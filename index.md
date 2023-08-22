@@ -41,15 +41,14 @@ Features that distinguish AstroNvim include:
 Read our overview and comparison of
 [Neovim configuration distributions](https://lazyman.dev/posts/Configuration-Distributions).
 
-## AstroNvim Overview
+## Overview
 
-<p align="center">
-AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
-</p>
+AstroNvim is an aesthetic and feature-rich neovim config that is extensible
+and easy to use with a great set of plugins
 
 ## Preview
 
-![Preview Image](https://astronvim.com/img/themes/overview.png)
+<kbd><img alt="Preview Image" src="https://astronvim.com/img/themes/overview.png"></kbd>
 
 ## Features
 
