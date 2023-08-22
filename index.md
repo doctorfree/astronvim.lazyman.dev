@@ -1,6 +1,8 @@
 ---
 layout: post
+title: AstroNvim Configurations
 toc: true
+post_style: page
 ---
 
 ## Lazyman Supported AstroNvim Neovim Configurations
