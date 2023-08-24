@@ -17,7 +17,6 @@ Default AstroNvim example configuration
 - Plugin manager:         [Lazy](https://github.com/folke/lazy.nvim){:target="_blank"}{:rel="noopener noreferrer"}
 - Installation location:  **`~/.config/nvim-AstroNvimStart`**
 
-
 ### Git repository
 
 [https://github.com/doctorfree/AstroNvimStart](https://github.com/doctorfree/AstroNvimStart){:target="_blank"}{:rel="noopener noreferrer"}

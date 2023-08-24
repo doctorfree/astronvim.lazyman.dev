@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 6
+order: 8
 ---
 
 [Lazyman](https://lazyman.dev) provides command line and menus to

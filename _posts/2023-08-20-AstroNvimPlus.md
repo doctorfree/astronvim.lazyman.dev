@@ -17,7 +17,6 @@ An example [AstroNvim community](https://github.com/AstroNvim/astrocommunity) pl
 - Plugin manager:         [Lazy](https://github.com/folke/lazy.nvim){:target="_blank"}{:rel="noopener noreferrer"}
 - Installation location:  **`~/.config/nvim-AstroNvimPlus`**
 
-
 ### Git repository
 
 [https://github.com/doctorfree/astronvim](https://github.com/doctorfree/astronvim){:target="_blank"}{:rel="noopener noreferrer"}
