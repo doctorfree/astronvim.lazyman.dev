@@ -25,11 +25,12 @@ tagline: AstroNvim Neovim Configurations # it will display as the sub-title
 description: >- # used by seo meta and the atom feed
   Lazyman supported Neovim configurations using the AstroNvim configuration framework.
 
+# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+url: "https://astronvim.lazyman.dev"
+
 plugins:
   - jekyll-redirect-from
-
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+  - jekyll-sitemap
 
 github:
   username: doctorfree # change to your github username

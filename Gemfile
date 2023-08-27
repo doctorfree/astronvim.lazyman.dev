@@ -25,6 +25,9 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 # Simplify creation and management of posts
 gem 'jekyll-compose', group: [:jekyll_plugins]
 
+# Auto-generate a sitemap
+gem 'jekyll-sitemap'
+
 # Simplify page/post redirects
 gem 'jekyll-redirect-from'
 
